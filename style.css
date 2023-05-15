@@ -42,7 +42,12 @@ background-image: linear-gradient(to right top,#ff0062,#1100ff);
 
 #logout
 {
-	font-size: 20px; float: right;
+	font-size: 20px; 
+	float: right;
+	font-family: Tw Cen MT;
+	color: black;
+	
+
 }
 
 
